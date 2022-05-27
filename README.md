@@ -1,10 +1,9 @@
 ### Hello Internet 👋
 
-- 🔭 I’m currently in my 1st year of studying IT
+- 🔭 I’ve finished my 1st year of studying IT
 at JAMK!
-- 🌱 I’m currently learning: networks, projects, digital techniques, math
+- 🌱 I’m currently learning: Javascript, React
 - 💬 Ask me about my [latest code project](https://github.com/vihervirveli/portfolio/tree/master/AI_and_Python/covid_info_search) 
-- 🤔 I’m looking for help finding a summer job
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maarit-salo/)
 
 <!--
