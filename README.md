@@ -1,9 +1,9 @@
 ### Hello Internet 👋
 
-- 🔭 I’ve finished my 1st year of studying IT
-at JAMK!
-- 🌱 I’m currently learning: Javascript, React
-- 💬 Ask me about my [latest code project](https://github.com/vihervirveli/portfolio/tree/master/AI_and_Python/covid_info_search) 
+- 🔭 I’m in my 3rd year of studying IT
+at JAMK! After this spring, I only have my thesis left
+- 🌱 I’m currently learning: React Native, Flutter, GDscript, 
+- 💬 Ask me about my [latest code project]([https://github.com/vihervirveli/portfolio/tree/master/AI_and_Python/covid_info_search](https://github.com/vihervirveli/card-app)) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maarit-salo/)
 
 <!--
