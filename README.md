@@ -1,6 +1,6 @@
 ### Hello Internet 👋
 
-- 🔭 I’m in my 4rd year of studying IT
+- 🔭 I’m in my 4th year of IT engineering studies
 at JAMK! I'll be graduating soon and I'm looking for work
 - 💬 Ask me about my [latest code project]([https://github.com/vihervirveli/portfolio/tree/master/AI_and_Python/covid_info_search](https://github.com/vihervirveli/card-app)) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maarit-salo/)
